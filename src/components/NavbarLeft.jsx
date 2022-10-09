@@ -21,7 +21,7 @@ const NavbarLeft = () => {
           style={{ maxHeight: "50px", marginLeft: '0px' ,boxShadow:" 1px 2px 4px #fae1d7" }}
         /></a>
         <NavbarBrand className="img-fluid d-lg-none " style={style2}>
-          Süleyman Selim Döner
+          Mehmet Hasbi Kaynak
         </NavbarBrand>
         <span className="d-none d-lg-block">
           <a href=""><img
